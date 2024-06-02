@@ -1,0 +1,139 @@
+.svg-icon {
+  position: absolute;
+  height: 100%;
+  width: calc(100% - 163px);
+  top: 0;
+  right: 163px;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.rated-4855 {
+  position: absolute;
+  top: 10px;
+  left: 50px;
+  line-height: 20px;
+}
+.svg-parent {
+  position: absolute;
+  height: calc(100% - 355px);
+  width: calc(100% - 570px);
+  top: 187px;
+  right: 208px;
+  bottom: 168px;
+  left: 362px;
+  text-align: right;
+  color: var(--color-goldenrod);
+}
+.professional-online-makeup {
+  position: absolute;
+  top: 0;
+  left: 3px;
+  font-size: var(--font-size-41xl);
+  line-height: 70px;
+  display: inline-block;
+  width: 770px;
+}
+.svg-icon1 {
+  position: absolute;
+  top: 3px;
+  left: 0;
+  width: 35px;
+  height: 35px;
+  overflow: hidden;
+}
+.indias-no1-online {
+  position: absolute;
+  top: 0;
+  left: 48px;
+  line-height: 40px;
+}
+.svg-icon2,
+.svg-icon3 {
+  position: absolute;
+  top: 53px;
+  left: 0;
+  width: 35px;
+  height: 35px;
+  overflow: hidden;
+}
+.svg-icon3 {
+  top: 102px;
+}
+.learn-by-live,
+.unlimited-practice-session {
+  position: absolute;
+  top: 50px;
+  left: 48px;
+  line-height: 40px;
+}
+.unlimited-practice-session {
+  top: 99px;
+}
+.svg-group {
+  position: absolute;
+  top: 256px;
+  left: 1px;
+  width: 665px;
+  height: 139px;
+  font-size: var(--font-size-11xl);
+}
+.group-item,
+.svg-icon4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.group-item {
+  border-radius: var(--br-3xs);
+  background-color: var(--color-darkslategray-100);
+  width: 337px;
+  height: 59px;
+}
+.svg-icon4 {
+  height: 100%;
+  width: calc(100% - 242px);
+  right: 242px;
+  bottom: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.certification-program {
+  position: absolute;
+  top: 0;
+  left: 38px;
+  line-height: 30px;
+}
+.svg-container {
+  position: absolute;
+  height: calc(100% - 23.4px);
+  width: calc(100% - 70px);
+  top: 11px;
+  right: 35px;
+  bottom: 12.4px;
+  left: 35px;
+}
+.rectangle-group {
+  position: absolute;
+  top: 179px;
+  left: 0;
+  width: 337px;
+  height: 59px;
+  font-size: var(--font-size-3xl);
+}
+.group-parent {
+  position: absolute;
+  height: calc(100% - 3068px);
+  width: calc(100% - 667px);
+  top: 398px;
+  right: 522px;
+  bottom: 2670px;
+  left: 145px;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--registerairblackco-nero);
+  font-family: var(--font-adamina);
+}

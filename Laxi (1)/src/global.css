@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@500&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Adamina:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=PingFang+SC:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Proxima+Nova:wght@400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Tillana:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=FONTSPRING+DEMO+-+Roca+One+Rg:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-adamina: Adamina;
+  --font-proxima-nova: "Proxima Nova";
+  --font-fontspring-demo---roca-one-rg: "FONTSPRING DEMO - Roca One Rg";
+  --font-tillana: Tillana;
+  --registerairblackco-pingfang-sc-regular-1356: "PingFang SC";
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-11xl: 30px;
+  --font-size-41xl: 60px;
+  --font-size-sm: 14px;
+  --font-size-5xl: 24px;
+  --font-size-6xl: 25px;
+  --font-size-mini: 15px;
+  --font-size-xl: 20px;
+  --registerairblackco-pingfang-sc-regular-1356-size: 13.6px;
+  --font-size-3xl: 22px;
+
+  /* Colors */
+  --registerairblackco-alabaster: #fafafa;
+  --registerairblackco-nero: #fff;
+  --color-darkslategray-100: #393939;
+  --color-darkslategray-200: rgba(62, 61, 61, 0.7);
+  --color-whitesmoke: #f5f5f5;
+  --registerairblackco-alto: #d9d9d9;
+  --registerairblackco-silver: #bfbfbf;
+  --registerairblackco-emperor: #505050;
+  --color-goldenrod: #f7c852;
+  --registerairblackco-black: #000;
+
+  /* Gaps */
+  --gap-2xs: 11px;
+  --gap-5xs: 8px;
+  --gap-6xl: 25px;
+  --gap-xl: 20px;
+
+  /* Paddings */
+  --padding-3xs-1: 9.1px;
+  --padding-94xl-4: 113.4px;
+  --padding-12xs-1: 0.1px;
+  --padding-12xs-9: 0.9px;
+  --padding-3xs: 10px;
+  --padding-6xs: 7px;
+  --padding-xs: 12px;
+  --padding-4xs: 9px;
+
+  /* Border radiuses */
+  --br-3xs: 10px;
+  --br-9xs: 4px;
+}
